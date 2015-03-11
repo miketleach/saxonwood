@@ -44,7 +44,7 @@
 	/* Don't forget to set this to something that matches the design */
 	a
 	{
-		color: #db3b5d;
+		color: #369E33;
 	}
 
 	a:hover
@@ -689,7 +689,7 @@
 	#logo-wrapper
 	{
 		position: relative;
-		background: #db3b5d url(images/overlay.png) repeat;
+		background: #369E33 url(images/overlay.png) repeat;
 	}
 
 	#logo
@@ -750,13 +750,13 @@
 				text-decoration: none;
 				text-transform: uppercase;
 				font-size: 1em;
-				color: #db3b5d;
+				color: #369E33;
 				outline: 0;
 			}
 
 			#nav li.active a
 			{
-				background: #db3b5d;
+				background: #369E33;
 				border-radius: 25px;
 				color: #FFF;
 			}
