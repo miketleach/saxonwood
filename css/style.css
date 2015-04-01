@@ -34,6 +34,7 @@
 	strong, b
 	{
 		color: #000000;
+		font-weight: bold;
 	}
 	
 	em, i
@@ -77,6 +78,21 @@
 		border-left: solid 0.5em #ddd;
 		padding: 1em 0 1em 2em;
 		font-style: italic;
+	}
+
+	th
+	{
+    	text-align: left;
+	}
+
+	td
+	{
+		padding-right: 20px;
+	}
+
+	table 
+	{
+		border-spacing: 5px;
 	}
 	
 	p, ul, ol, dl, table
