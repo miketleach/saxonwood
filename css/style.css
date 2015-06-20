@@ -789,7 +789,7 @@
 	#banner
 	{
 		position: relative;
-		background: #333 url(../images/banner.jpg) no-repeat center;
+		background: #333 url(../images/individual_collage.jpg) no-repeat 50% 20%;
 		background-size: cover;
 		color: #fff;
 	}
