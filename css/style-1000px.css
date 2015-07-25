@@ -7,3 +7,17 @@
 /*********************************************************************************/
 /* Basic                                                                         */
 /*********************************************************************************/
+
+			#nav > ul > li > a,
+			#nav > ul > li > span
+			{
+				display: inline-block;
+				padding: 0.80em 1.5em;
+				letter-spacing: 0.06em;
+				text-decoration: none;
+				text-transform: uppercase;
+				font-size: 0.9em;
+				color: #369E33;
+				outline: 0;
+			}
+
