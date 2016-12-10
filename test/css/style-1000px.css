@@ -1,0 +1,23 @@
+/*
+	Colorized by TEMPLATED
+    templated.co @templatedco
+    Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+*/
+
+/*********************************************************************************/
+/* Basic                                                                         */
+/*********************************************************************************/
+
+			#nav > ul > li > a,
+			#nav > ul > li > span
+			{
+				display: inline-block;
+				padding: 0.80em 1.5em;
+				letter-spacing: 0.06em;
+				text-decoration: none;
+				text-transform: uppercase;
+				font-size: 0.9em;
+				color: #369E33;
+				outline: 0;
+			}
+
